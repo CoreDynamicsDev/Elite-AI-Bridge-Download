@@ -55,29 +55,17 @@ Your API key is yours. Don't post it in screenshots, GitHub issues, Discord, Red
 
 If you want to use the in-game overlay, Elite needs to run in **Borderless** or **Windowed** mode. Exclusive Fullscreen won't display the overlay.
 
-## Found a bug?
+## Bugs, Feedback & Contact
 
-This is the first public release, so if you find something weird, let me know.
+Found a bug, have a question, or have an idea for Elite AI Bridge?
 
-When reporting a problem, include what you were doing, your Bridge version, and your Windows version if it's relevant.
+[Open a GitHub Issue](https://github.com/CoreDynamicsDev/Elite-AI-Bridge-Download/issues/new) and I'll take a look.
 
-Please **do not include API keys, passwords, or other private information** in bug reports.
+Bug reports, feature requests, suggestions, and general feedback are all welcome.
 
-## Support the project
+If you're reporting a problem, please include your Elite AI Bridge version, Windows version, and a description of what happened.
 
-Elite AI Bridge is free.
-
-If you enjoy it and want to throw a few credits toward continued development:
-
-### [Support Elite AI Bridge on Ko-fi](https://ko-fi.com/eliteaibridge)
-
-No features are locked behind donations.
-
-## A quick legal bit
-
-Elite AI Bridge is an independent community project and isn't affiliated with, endorsed by, sponsored by, or approved by Frontier Developments or OpenAI.
-
-Elite Dangerous and related names, trademarks, game content, and intellectual property belong to Frontier Developments and/or their respective rights holders.
+**Never include OpenAI API keys, passwords, tokens, or other private information in an Issue.**
 
 ---
 
