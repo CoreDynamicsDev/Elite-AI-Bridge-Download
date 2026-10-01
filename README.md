@@ -1,21 +1,26 @@
 # Elite AI Bridge
 
-I built Elite AI Bridge because I wanted more out of the tools I was already using with Elite Dangerous. What started as a personal project turned into a full companion app that I figured other commanders might enjoy too.
+Elite AI Bridge is a free Windows companion application for Elite Dangerous. It runs alongside the game and provides a cockpit-style interface for live game information, navigation, trading, combat, HOTAS/controller controls, voice commands, an in-game overlay, and an optional AI co-pilot.
 
-It runs alongside Elite and gives you a second cockpit for live game information, navigation, trading, combat, HOTAS controls, voice commands, and an optional AI co-pilot.
+AI is completely optional.
 
-It's free. AI is completely optional.
-
-<img width="2048" height="1147" alt="bridge home" src="https://github.com/user-attachments/assets/e60773a9-280c-4d77-b60a-a68b40bf9ace" />
-
+<img width="2048" height="1147" alt="Elite AI Bridge home" src="https://github.com/user-attachments/assets/e60773a9-280c-4d77-b60a-a68b40bf9ace" />
 
 ## Download
 
-### [Download Elite AI Bridge 1.0](https://github.com/CoreDynamicsDev/Elite-AI-Bridge-Download/releases/latest)
+### [Download Elite AI Bridge 1.0.1](https://github.com/CoreDynamicsDev/Elite-AI-Bridge-Download/releases/latest)
 
-Download `Elite_AI_Bridge_Setup_1.0.exe` under **Assets** and run the installer.
+Download **`Elite_AI_Bridge_Setup_1.0.1.exe`** from the latest release under **Assets** and run the installer.
 
-> Windows may warn you about the installer because it isn't code-signed yet. Only download Elite AI Bridge from this GitHub page.
+> Windows may warn you about the installer because it is not code-signed yet. Only download Elite AI Bridge from this GitHub repository.
+
+## Source Code
+
+The complete readable source code for Elite AI Bridge is maintained in the separate public source repository:
+
+**[Elite AI Bridge Source Code](https://github.com/CoreDynamicsDev/Elite-AI-Bridge)**
+
+This repository is intended to be the simple public download and release-information page. If you want to inspect, modify, or build Elite AI Bridge yourself, use the source repository above.
 
 ## What it does
 
@@ -37,7 +42,7 @@ Some of what's currently included:
 
 The goal is for the Bridge to eventually disappear into the cockpit. Once you've configured it, most of the important stuff can be controlled from your HOTAS, voice, or the in-game overlay without constantly reaching for another window.
 
-## Optional AI co-pilot
+## Optional AI Co-pilot
 
 You **do not need AI** to use Elite AI Bridge.
 
@@ -47,11 +52,12 @@ Your API key is yours. Don't post it in screenshots, GitHub issues, Discord, Red
 
 ## Installation
 
-1. Download the latest installer from **Releases**.
-2. Run `Elite_AI_Bridge_Setup_1.0.exe`.
-3. Launch Elite AI Bridge.
-4. Follow the first-run setup.
-5. Launch Elite Dangerous.
+1. Download **Elite AI Bridge 1.0.1** from the [latest release](https://github.com/CoreDynamicsDev/Elite-AI-Bridge-Download/releases/latest).
+2. Download **`Elite_AI_Bridge_Setup_1.0.1.exe`** from the release Assets.
+3. Run the installer.
+4. Launch Elite AI Bridge.
+5. Follow the first-run setup.
+6. Launch Elite Dangerous.
 
 If you want to use the in-game overlay, Elite needs to run in **Borderless** or **Windowed** mode. Exclusive Fullscreen won't display the overlay.
 
