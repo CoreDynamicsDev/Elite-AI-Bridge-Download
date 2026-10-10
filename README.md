@@ -1,78 +1,55 @@
-# Elite AI Bridge
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CoreDynamicsDev/Elite-AI-Bridge/main/branding/Elite_AI_Bridge_Icon.png" alt="Elite AI Bridge icon" width="128">
+</p>
 
-Elite AI Bridge is a free Windows companion application for Elite Dangerous. It runs alongside the game and provides a cockpit-style interface for live game information, navigation, trading, combat, HOTAS/controller controls, voice commands, an in-game overlay, and an optional AI co-pilot.
+# Elite AI Bridge 2.0
 
-AI is completely optional.
+**A free Windows companion app for Elite Dangerous.**
 
-<img width="2048" height="1147" alt="Elite AI Bridge home" src="https://github.com/user-attachments/assets/e60773a9-280c-4d77-b60a-a68b40bf9ace" />
+Elite AI Bridge puts live ship information and flight controls into a retro command-deck interface. Use its tools without AI, or optionally add a voice-controlled AI co-pilot using your own OpenAI API key.
 
 ## Download
 
-### [Download Elite AI Bridge 1.0.1](https://github.com/CoreDynamicsDev/Elite-AI-Bridge-Download/releases/latest)
+**[Get Elite AI Bridge from GitHub Releases](https://github.com/CoreDynamicsDev/Elite-AI-Bridge-Download/releases/latest)**
 
-Download **`Elite_AI_Bridge_Setup_1.0.1.exe`** from the latest release under **Assets** and run the installer.
+1. Open the latest release, expand **Assets**, and download the Windows installer (`.exe`).
+2. Run the installer and follow its on-screen setup instructions.
+3. Launch Elite AI Bridge and complete the first-run wizard.
+4. Launch Elite Dangerous to connect live game information.
 
-> Windows may warn you about the installer because it is not code-signed yet. Only download Elite AI Bridge from this GitHub repository.
+**Windows note:** The installer is not yet code-signed, so Windows may show an unknown-publisher or SmartScreen warning. Only obtain the installer from this official repository. Review the release's SHA-256 checksum to verify the file you downloaded.
 
-## Source Code
+For the in-game overlay, use Elite Dangerous in **Borderless** or **Windowed** mode. The overlay does not display in exclusive fullscreen mode.
 
-The complete readable source code for Elite AI Bridge is maintained in the separate public source repository:
+## What's included in version 2.0
 
-**[Elite AI Bridge Source Code](https://github.com/CoreDynamicsDev/Elite-AI-Bridge)**
+- **Flight Deck:** live ship, shields, hull, fuel, modules, cargo, event log, route jumps and one-click flight actions.
+- **Combat:** target information, fighter and wing controls, and resource extraction site discovery for bounty hunting.
+- **Trade:** route searches, trade loops and a trip ledger.
+- **Navigation:** live route progress, fuel stars and bookmarks.
+- **Colonization:** construction progress, remaining deliveries and supply locations.
+- **Commander:** ranks, career statistics, session totals and additional commander statistics.
+- **In-game overlay:** optional on-screen flight interface for borderless/windowed gameplay.
+- **Ship voice:** locally generated callouts and spoken alerts.
+- **Setup wizard and guided tours:** first-run setup and explanations of each module.
+- **Optional AI co-pilot:** push-to-talk AI features using an API key you supply.
 
-This repository is intended to be the simple public download and release-information page. If you want to inspect, modify, or build Elite AI Bridge yourself, use the source repository above.
+Version 2.0 introduces a redesigned interface and setup experience. See the [full changelog in the source repository](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/blob/main/CHANGELOG.md).
 
-## What it does
+## Optional AI co-pilot and privacy
 
-Elite AI Bridge reads the Elite Dangerous journal and other game data while you play and turns it into a cockpit-style interface.
+The core Bridge works **without** an OpenAI API key. AI features require your own OpenAI API account and key; API usage may incur separate charges from OpenAI. Never post keys in screenshots, public issues or support files.
 
-Some of what's currently included:
+See [Privacy and API Keys](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/blob/main/PRIVACY_AND_API_KEYS.md) and [Security](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/blob/main/SECURITY.md) for details.
 
-- Live ship, commander, system and station information
-- Navigation and route tools
-- Trade and market tools
-- Combat and target information
-- Colonization tools
-- HOTAS/controller support and custom bindings
-- In-game HUD/chat overlay
-- Push-to-Talk and voice commands
-- Optional AI co-pilot
-- Dynamic artwork for ships and targets
-- Audio feedback and spoken responses
+## Source code and support
 
-The goal is for the Bridge to eventually disappear into the cockpit. Once you've configured it, most of the important stuff can be controlled from your HOTAS, voice, or the in-game overlay without constantly reaching for another window.
+- **[Full source code and build instructions](https://github.com/CoreDynamicsDev/Elite-AI-Bridge)**
+- **[Report a bug or request a feature](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/issues)**
+- **[Support development on Ko-fi](https://ko-fi.com/eliteaibridge)**
 
-## Optional AI Co-pilot
+If you encounter an issue, go to **Setup > Status** in the Bridge to create a support file. **Review the ZIP before sharing it publicly**: diagnostic files may include local paths, controller names, settings and game-state information.
 
-You **do not need AI** to use Elite AI Bridge.
+## Disclaimer
 
-If you want the AI/voice features, you can connect your own OpenAI API key during setup. Any API usage is between you and OpenAI and may have a cost depending on your usage.
-
-Your API key is yours. Don't post it in screenshots, GitHub issues, Discord, Reddit, or support requests.
-
-## Installation
-
-1. Download **Elite AI Bridge 1.0.1** from the [latest release](https://github.com/CoreDynamicsDev/Elite-AI-Bridge-Download/releases/latest).
-2. Download **`Elite_AI_Bridge_Setup_1.0.1.exe`** from the release Assets.
-3. Run the installer.
-4. Launch Elite AI Bridge.
-5. Follow the first-run setup.
-6. Launch Elite Dangerous.
-
-If you want to use the in-game overlay, Elite needs to run in **Borderless** or **Windowed** mode. Exclusive Fullscreen won't display the overlay.
-
-## Bugs, Feedback & Contact
-
-Found a bug, have a question, or have an idea for Elite AI Bridge?
-
-[Open a GitHub Issue](https://github.com/CoreDynamicsDev/Elite-AI-Bridge-Download/issues/new) and I'll take a look.
-
-Bug reports, feature requests, suggestions, and general feedback are all welcome.
-
-If you're reporting a problem, please include your Elite AI Bridge version, Windows version, and a description of what happened.
-
-**Never include OpenAI API keys, passwords, tokens, or other private information in an Issue.**
-
----
-
-Fly dangerous. o7
+Elite AI Bridge is an independent community-developed application. It is not affiliated with, sponsored by, approved by or endorsed by Frontier Developments plc or OpenAI. Elite Dangerous and related intellectual property belong to their respective owners. See the [license](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/blob/main/LICENSE.txt) and [third-party notices](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/blob/main/THIRD_PARTY_NOTICES.md).
