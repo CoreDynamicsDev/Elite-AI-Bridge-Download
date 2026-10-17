@@ -34,6 +34,8 @@ For the in-game overlay, use Elite Dangerous in **Borderless** or **Windowed** m
 - **Setup wizard and guided tours:** first-run setup and explanations of each module.
 - **Optional AI co-pilot:** push-to-talk AI features using an API key you supply.
 
+**Latest: 2.0.1.** Adds an update notice (the Bridge tells you when a new version is out) and fixes the ELITE lamp at the main menu and old Colonization sites.
+
 Version 2.0 introduces a redesigned interface and setup experience. See the [full changelog in the source repository](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/blob/main/CHANGELOG.md).
 
 ## Optional AI co-pilot and privacy
