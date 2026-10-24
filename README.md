@@ -34,7 +34,7 @@ For the in-game overlay, use Elite Dangerous in **Borderless** or **Windowed** m
 - **Setup wizard and guided tours:** first-run setup and explanations of each module.
 - **Optional AI co-pilot:** push-to-talk AI features using an API key you supply.
 
-**Latest: 2.0.3.** The Bridge now checks for updates every time it starts, and the DEEP / VERY DEEP / HIGH voice pitch settings work. 2.0.2 added FLEET on the Commander page: where every stored ship is, with a key to plot a route to it.
+**Latest: 2.0.4.** New OLD SCHOOL AMBER screen theme (Setup > Display), a startup sound with the opening animation, and the setup wizard now waits for the animation to finish before it talks. 2.0.3 made the Bridge check for updates every time it starts.
 
 Version 2.0 introduces a redesigned interface and setup experience. See the [full changelog in the source repository](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/blob/main/CHANGELOG.md).
 
