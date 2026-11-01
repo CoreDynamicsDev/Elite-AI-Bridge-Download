@@ -29,12 +29,14 @@ For the in-game overlay, use Elite Dangerous in **Borderless** or **Windowed** m
 - **Navigation:** live route progress, fuel stars and bookmarks.
 - **Colonization:** construction progress, remaining deliveries and supply locations.
 - **Commander:** ranks, career statistics, session totals and additional commander statistics.
+- **Mining:** prospector verdicts and callouts, your haul and where to sell it, rings and hotspots near you, and surface mining in the Rhino with raw materials.
+- **Engineering:** engineered modules on your ship and in storage, your engineers, and manufactured and encoded materials.
 - **In-game overlay:** optional on-screen flight interface for borderless/windowed gameplay.
 - **Ship voice:** locally generated callouts and spoken alerts.
 - **Setup wizard and guided tours:** first-run setup and explanations of each module.
 - **Optional AI co-pilot:** push-to-talk AI features using an API key you supply.
 
-**Latest: 2.0.4.** New OLD SCHOOL AMBER screen theme (Setup > Display), a startup sound with the opening animation, and the setup wizard now waits for the animation to finish before it talks. 2.0.3 made the Bridge check for updates every time it starts.
+**Latest: 2.0.5.** New MINING and ENGINEERING pages, deliveries and a session debrief on the Commander page, and fixes for auto dock, route plotting and starting the Bridge. 2.0.4 added the OLD SCHOOL AMBER screen theme and the startup sound.
 
 Version 2.0 introduces a redesigned interface and setup experience. See the [full changelog in the source repository](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/blob/main/CHANGELOG.md).
 
