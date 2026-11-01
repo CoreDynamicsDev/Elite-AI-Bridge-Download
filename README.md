@@ -8,6 +8,12 @@
 
 Elite AI Bridge puts live ship information and flight controls into a retro command-deck interface. Use its tools without AI, or optionally add a voice-controlled AI co-pilot using your own OpenAI API key.
 
+![Elite AI Bridge 2.0.5 Flight Deck](screenshots/flight-deck-2.0.5.jpg)
+
+![The Mining page](screenshots/mining-2.0.5.jpg)
+
+*Screens shown use demo data.*
+
 ## Download
 
 **[Get Elite AI Bridge from GitHub Releases](https://github.com/CoreDynamicsDev/Elite-AI-Bridge-Download/releases/latest)**
