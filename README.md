@@ -10,6 +10,8 @@ Elite AI Bridge puts live ship information and flight controls into a retro comm
 
 ![Elite AI Bridge 2.0.5 Flight Deck](screenshots/flight-deck-2.0.5.jpg)
 
+![The Trade page in Autumn](screenshots/trade-autumn-2.0.6.jpg)
+
 ![The Mining page](screenshots/mining-2.0.5.jpg)
 
 *Screens shown use demo data.*
@@ -31,7 +33,7 @@ For the in-game overlay, use Elite Dangerous in **Borderless** or **Windowed** m
 
 - **Flight Deck:** live ship, shields, hull, fuel, modules, cargo, event log, route jumps and one-click flight actions.
 - **Combat:** target information, fighter and wing controls, and resource extraction site discovery for bounty hunting.
-- **Trade:** route searches, trade loops and a trip ledger.
+- **Trade:** route searches with landing pad and space-station filters, trade loops and a trip ledger.
 - **Navigation:** live route progress, fuel stars and bookmarks.
 - **Colonization:** construction progress, remaining deliveries and supply locations.
 - **Commander:** ranks, career statistics, session totals and additional commander statistics.
@@ -40,9 +42,10 @@ For the in-game overlay, use Elite Dangerous in **Borderless** or **Windowed** m
 - **In-game overlay:** optional on-screen flight interface for borderless/windowed gameplay.
 - **Ship voice:** locally generated callouts and spoken alerts.
 - **Setup wizard and guided tours:** first-run setup and explanations of each module.
+- **Screen colours and holidays:** ten screen colours, and seasonal decorations through the year.
 - **Optional AI co-pilot:** push-to-talk AI features using an API key you supply.
 
-**Latest: 2.0.5.** New MINING and ENGINEERING pages, deliveries and a session debrief on the Commander page, and fixes for auto dock, route plotting and starting the Bridge. 2.0.4 added the OLD SCHOOL AMBER screen theme and the startup sound.
+**Latest: 2.0.6.** Landing pad and space-station filters for Trade searches, ten screen colours, and holiday decorations through the year. 2.0.5 added the MINING and ENGINEERING pages.
 
 Version 2.0 introduces a redesigned interface and setup experience. See the [full changelog in the source repository](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/blob/main/CHANGELOG.md).
 
