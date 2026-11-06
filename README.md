@@ -12,6 +12,8 @@ Elite AI Bridge puts live ship information and flight controls into a retro comm
 
 ![The Trade page in Autumn](screenshots/trade-autumn-2.0.6.jpg)
 
+![Holiday looks: Christmas, New Year, Valentine's Day, Lunar New Year, Halloween and Easter](screenshots/holidays-2.0.6.jpg)
+
 ![The Mining page](screenshots/mining-2.0.5.jpg)
 
 *Screens shown use demo data.*
