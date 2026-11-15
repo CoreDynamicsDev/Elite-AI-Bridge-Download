@@ -8,7 +8,7 @@
 
 Elite AI Bridge puts live ship information and flight controls into a retro command-deck interface. Use its tools without AI, or optionally add a voice-controlled AI co-pilot using your own OpenAI API key.
 
-![Elite AI Bridge 2.0.5 Flight Deck](screenshots/flight-deck-2.0.5.jpg)
+![Elite AI Bridge 2.0.7 Flight Deck](screenshots/flight-deck-2.0.7.jpg)
 
 ![The Trade page in Autumn](screenshots/trade-autumn-2.0.6.jpg)
 
@@ -47,7 +47,7 @@ For the in-game overlay, use Elite Dangerous in **Borderless** or **Windowed** m
 - **Screen colours and holidays:** ten screen colours, and seasonal decorations through the year.
 - **Optional AI co-pilot:** push-to-talk AI features using an API key you supply.
 
-**Latest: 2.0.6.** Landing pad and space-station filters for Trade searches, ten screen colours, and holiday decorations through the year. 2.0.5 added the MINING and ENGINEERING pages.
+**Latest: 2.0.7.** Setup now picks a Python version the Bridge supports, 10 digit trip earnings, an EMAIL US key for bugs and ideas, and the first-time setup log in the support file. 2.0.6 added Trade landing pad and space-station filters, ten screen colours and holiday decorations.
 
 Version 2.0 introduces a redesigned interface and setup experience. See the [full changelog in the source repository](https://github.com/CoreDynamicsDev/Elite-AI-Bridge/blob/main/CHANGELOG.md).
 
